@@ -35,8 +35,13 @@ So, each person added to the directory will have few fields (This is being discu
 - LinkedIn
 - Website
 - Notes
+- Knows about
 - Work Tags
 ```
+
+### How it will work?
+- mvp steps: https://github.com/geekodour/reachout/issues/3#issuecomment-417900777
+- the search : https://github.com/geekodour/reachout/issues/5
 
 ### Is this not just LinkedIn?
 Absolutely not, all the people here will be submitted by contributors and then verified by mods. Main goal of ReachOut is to let
